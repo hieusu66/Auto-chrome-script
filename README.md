@@ -99,7 +99,7 @@ ChromeDriver (tự động cài hoặc tải thủ công)
 🚀 Hướng dẫn cài đặt
 1. Clone repository
 bash
-git clone https://github.com/yourusername/auto-chrome-script.git
+git clone https://github.com/hieusu66/Auto-chrome-script.git
 cd auto-chrome-script
 2. Cài đặt packages
 bash
