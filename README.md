@@ -100,12 +100,11 @@ ChromeDriver (tự động cài hoặc tải thủ công)
 1. Clone repository
 bash
 git clone https://github.com/hieusu66/Auto-chrome-script.git
-
 cd auto-chrome-script
-2. Cài đặt packages
+3. Cài đặt packages
 bash
 pip install selenium ttkbootstrap opencv-python pyautogui pillow numpy sympy pyperclip undetected-chromedriver
-3. Cấu trúc thư mục
+4. Cấu trúc thư mục
 text
 auto-chrome-script/
 ├── main.py
