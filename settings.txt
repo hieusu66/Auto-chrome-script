@@ -1,0 +1,8 @@
+threads=1
+width=200
+height=800
+auto_create_profiles=False
+delete_profiles_after_run=False
+language=vi
+auto_load_accounts=True
+theme=litera

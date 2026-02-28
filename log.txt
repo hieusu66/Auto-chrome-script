@@ -1,0 +1,13 @@
+2026-02-24 21:49:21,536 - INFO - Tìm thấy file account.txt, đang tải tự động...
+2026-02-24 21:49:21,536 - INFO - Đã tải 3 tài khoản từ account.txt
+2026-02-24 21:49:21,648 - INFO - Đã tải nhóm XPath từ file
+2026-02-24 21:50:58,088 - INFO - Tìm thấy file account.txt, đang tải tự động...
+2026-02-24 21:50:58,088 - INFO - Đã tải 1 tài khoản từ account.txt
+2026-02-24 21:50:58,199 - ERROR - Lỗi khi tải nhóm XPath: Expecting value: line 1 column 1 (char 0)
+2026-02-24 21:52:28,385 - ERROR - Lỗi khi tải nhóm XPath: Expecting value: line 1 column 1 (char 0)
+2026-02-24 21:52:30,707 - ERROR - Lỗi khi tải nhóm XPath: Expecting value: line 1 column 1 (char 0)
+2026-02-24 21:52:35,454 - INFO - Đã lưu nhóm XPath
+2026-02-24 21:57:19,689 - INFO - Hoàn thành 1 phiên chạy
+2026-02-28 22:12:02,436 - INFO - Tìm thấy file account.txt, đang tải tự động...
+2026-02-28 22:12:02,443 - INFO - Đã tải 1 tài khoản từ account.txt
+2026-02-28 22:12:02,535 - INFO - Đã tải nhóm XPath từ file
